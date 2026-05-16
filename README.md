@@ -1,4 +1,3 @@
-# SALES DATA ANALYSIS DASHBOARD
 
 # 📊 Sales Data Analysis Dashboard using Power BI
 
